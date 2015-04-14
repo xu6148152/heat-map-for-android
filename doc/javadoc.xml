@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="." destdir="doc" doctitle="Android OpenGL (ES 2.0) Heatmap" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.6" sourcefiles="src/pyalot/heatmap/opengl/GLHeatmap.java,src/pyalot/heatmap/opengl/Main.java,src/pyalot/heatmap/opengl/Heights.java,src/pyalot/heatmap/opengl/Framebuffer.java,src/pyalot/heatmap/opengl/Shader.java,src/pyalot/heatmap/opengl/Texture.java,src/pyalot/heatmap/opengl/Node.java" sourcepath="src;gen" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
